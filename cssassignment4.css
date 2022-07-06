@@ -1,0 +1,168 @@
+.class1{
+    height: 5px;
+    padding: 20px;
+    color: black;
+    font-size: 20px;
+    background-color: aqua;
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    right: 0px;
+    font-weight: bolder;
+    background-image: linear-gradient( to right, blue, red,yellow,green,blue);
+}
+
+.class2{
+    height: 60px;
+    width: 650px;
+    font-size: 12px;
+    background-color: lightgray;
+    border: 4px red solid;
+    border-radius: 20px;
+    margin-top: 60px;
+}
+
+.ul{
+    display: grid;
+    grid-template-columns: 20px;
+    justify-content: center;
+}
+
+.class3{
+    height: 100px;
+    background-color:bisque;
+    border: 1px solid red;
+    position: absolute;
+    left: 0px;
+    right: 0px;
+    border-radius: 20px;
+    display: grid;
+    grid-template-columns: auto auto auto;
+}
+
+.class3a{
+    height: 40px;
+    width: 300px;
+    font-size: 12px;
+    background-color: aquamarine;
+    border: red 1px solid;
+    border-radius: 10px;
+    margin: 4px;
+}
+
+.class4{
+    height: 5px;
+    padding: 20px;
+    position: absolute;
+    top: 270px;
+    left: 0px;
+    right: 0px;
+    font-weight: bolder;
+    border: solid red 2px;
+    background-image: linear-gradient(to right, red, yellow, red);
+}
+
+.class5{
+    height: 200px;
+    background-image: radial-gradient(blue,green, yellow);
+    position: absolute;
+    top: 350px;
+    left: 0px;
+    right: 0px;
+    border: black 2px solid ;
+    display: grid;
+    grid-template-columns: auto auto auto auto;
+    align-content: center;
+}
+
+.class5a{
+    height: 100px;
+    width: 150px;
+    background-color: yellow;
+    border: red 2px solid;
+    margin: 40px;
+    border-radius: 20px;
+}
+
+
+.class6{
+    height: 40px;
+    background-color: tomato;
+    position: absolute;
+    top: 10px;
+    left: 0px;
+    right: 0px;
+    border : 2px green solid;
+    color: white;
+    font-size: 20px;
+
+}
+
+.position{
+     position: absolute;
+     top: 570px;
+}
+
+.cell{
+    color: white;
+    font-weight: bold;
+}
+
+#cell1{
+    background-color: blue;
+    font-size: 25px;
+    text-align: center;
+    border-top: 10px solid white;
+    border-right: 10px solid white;
+    border-bottom: 10px solid white;
+}
+
+#cell2{
+    background-color: maroon;
+    font-size: 25px;
+    border-top: 10px solid white;
+    border-right: 10px solid white;
+    border-bottom: 10px solid white;
+}
+
+#cell3{
+    background-color: violet;
+    font-size: 25px;
+    border-top: 10px solid white;
+    border-right: 10px solid white;
+    border-bottom: 10px solid white;
+}
+
+#cell4{
+    background-color: black;
+    text-decoration: underline;
+    border-top: 10px solid white;
+    border-bottom: 10px solid white;
+}
+
+#cell5{
+    background-color: lightblue;
+    border-top: 10px solid white;
+    border-right: 10px solid white;
+    border-bottom: 10px solid white;
+}
+
+#tfoot{
+    font-weight:bold;
+    font-size: 20px;
+    background-color: aquamarine;
+    text-align:center
+}
+
+.allthebest{
+
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;
+    font-weight: bolder;
+    height: 40px;
+    align-content: center;
+    position: absolute;
+    left: 0px;
+    right: 0px;
+    background-image: linear-gradient(to top, blue, yellow, orange, blue);
+}
